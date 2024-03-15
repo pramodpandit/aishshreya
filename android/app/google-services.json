@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184903141811",
+    "project_id": "aishshreya-469c5",
+    "storage_bucket": "aishshreya-469c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184903141811:android:6499dde32a9ef3f79e23c6",
+        "android_client_info": {
+          "package_name": "com.app.aishshreya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184903141811-39slgcjepjv2vadlpmsuc3dstk33h42u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.aishshreya",
+            "certificate_hash": "637b1c56f23ea51f221277402e6e6ae05034c85c"
+          }
+        },
+        {
+          "client_id": "184903141811-h6rlesu9hcin5gp68cjteneqqs9cur19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.aishshreya",
+            "certificate_hash": "279ee44303bc88030e826493e7146ca9258089e4"
+          }
+        },
+        {
+          "client_id": "184903141811-blk5on2dvkjl052gh738kirljnapuudl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyasSHjmz8aqFU2SUal2mW2PWv28gsZc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184903141811-blk5on2dvkjl052gh738kirljnapuudl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
